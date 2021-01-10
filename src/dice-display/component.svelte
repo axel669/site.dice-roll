@@ -10,6 +10,8 @@
 
     export let dice
     export let roll
+
+    $: rollValue = roll?.total ?? ""
 </script>
 
 <style>
@@ -26,7 +28,7 @@
 <Card>
     <card-content dice>
         <Avatar background="var(--primary)">
-            {roll?.total ?? ""}
+            {rollValue}
         </Avatar>
         <roll-info>
             <Text variant="header" block>
