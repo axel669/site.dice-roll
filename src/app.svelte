@@ -36,6 +36,9 @@
 </script>
 
 <style>
+    :global(body) {
+        height: 100%;
+    }
     app-layout {
         display: grid;
         grid-template-areas:
