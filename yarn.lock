@@ -624,10 +624,10 @@ svelte-doric@^1.0.2:
   resolved "https://registry.yarnpkg.com/svelte-doric/-/svelte-doric-1.0.2.tgz#78496071d25a3ae2e379e843d5963189b5f79668"
   integrity sha512-9Qf1FyngBvJD7eVquA0CoLWVsgC3dcIISxEKl6li0DPu71NrwFhEBy9JWd7tWG6XRDaVIgkzi/EHmEc72V9/Fg==
 
-svelte@^3.24.0:
-  version "3.31.0"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.31.0.tgz#13966e5f55b975bc86675469bb2c58dd0e558d97"
-  integrity sha512-r+n8UJkDqoQm1b+3tA3Lh6mHXKpcfOSOuEuIo5gE2W9wQYi64RYX/qE6CZBDDsP/H4M+N426JwY7XGH4xASvGQ==
+svelte@^3.31.2:
+  version "3.31.2"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.31.2.tgz#d2ddf6cacbb95e4cc3796207510b660a25586324"
+  integrity sha512-TxZGrXzX2ggFH3BIKY5fmbeMdJuZrMIMDYPMX6R9255bueuYIuVaBQSLUeY2oD7W4IdeqRZiAVGCjDw2POKBRA==
 
 terser@^4.7.0:
   version "4.8.0"
